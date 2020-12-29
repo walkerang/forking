@@ -68,13 +68,13 @@ _Note: you are not making a new branch for this commit. You are committing direc
 
 12. Create a Pull Request from **your** forked version of `recipe-lab` to **my** original version of `recipe-lab` on GitHub [[help guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)].
 
-> Contributions to projects through pull requests are usually linked to Issues in the target repository. GitHub provides ticketing system (called "Issues") in every repository. This helps repository contributors keep track of work that needs to get done on the repository. I will assign you an Issue in the repository that you will need to reference in the Description of the Pull Request. 
+> Contributions to projects through pull requests are usually linked to [Issues in the target repository](https://github.com/chrisdaaz/recipe-lab/issues). GitHub provides ticketing system (called "Issues") in every repository. This helps repository contributors keep track of work that needs to get done on the repository. Please reference [Issue #1](https://github.com/chrisdaaz/recipe-lab/issues/1) in the Description of your Pull Request. 
 
 13. In the `Title` field of the Pull Request, enter the name of your recipe. In the `Description` of your recipe, reference the GitHub Issue number in order to link your contribution to the requested work in the Issue tracker [[here's a help guide on linking pull requests to issues](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)].
 
 ```
 TITLE: Buffalo Chicken Recipe
-DESCRIPTION: fixes #6
+DESCRIPTION: references #1
 ```
 
 14. When you're ready, click on `Create Pull Request`. This will notify me that your work is complete. If the recipe looks good, I'll add it to the book and you will see it available here:
