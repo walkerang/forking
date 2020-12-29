@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home"> 
+
+  <div class="recipes xs-px1 xs-mt2">
+    <div class="clearfix">
+    {% assign sorted = site.recipes | sort:"date" %}
+    {% for post in sorted %}
+
+      <div class="sm-col sm-col-6 md-col-6 lg-col-4 xs-px1 xs-mb2">
+          <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
+            <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
+            <h1 class="title p2 m0 absolute bold white bottom-0 left-0">{{ post.title }}</h1>
+          </a>
+      </div>
+    {% endfor %}
+  </div>
+  </div>
+   
+  <div class="container mt4 mb4">
+    <div class="sm-col-6 mx-auto px3 sm-px4">
+  <p>This website includes recipes shared by participants in <a href="https://libraryjuiceacademy.com/shop/course/268-git-and-github-for-libraries/?attribute_pa_session=2021-01-jan">Library Juice Academy's Git and GitHub for Librarians</a> course.</p>
+
+  <p>The website uses <strong>Chowdown</strong>, a <a href="https://jekyllrb.com/">Jekyll</a> theme that creates recipes from plain text. For example, here's <a href="https://raw.githubusercontent.com/clarklab/chowdown/gh-pages/_recipes/broccoli-cheese-soup.md">a recipe in plain text</a>. It's a broccoli beer cheese soup.</p>
+  
+  <p><a href="http://chowdown.io/recipes/broccoli-cheese-soup.html">Here's that same recipe processed with <strong>Chowdown</strong>.</a> It's a simple layout with a photo, ingredient list, and directions.</p>
+  
+  <p>The magic comes behind-the-scenes, with <a href="http://schema.org/Recipe">recipe microdata via schema.org</a>. This process adds special tags around each bit of content, which is what let's other apps (list coming soon) read your recipes. Data portability!</p>
+
+</div>
