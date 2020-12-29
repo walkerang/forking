@@ -3,8 +3,10 @@
 In this lab, we will be simulating the experience of contributing to an open source project on GitHub. By the end of this lab, you will have experience with the following:
 
 - Forking a repository from GitHub
-- Responding to a GitHub issue
-- Making a contribution to an open source project
+- Cloning a forked repository to your computer
+- Making commits to your forked repository
+- Creating pull requests from your forked repository
+- Linking specific Github Issues to pull requests
 
 This particular simulation is for contributing to a recipe website. Your task will be to contribute a recipe to the website so that the entire class can have new recipe to experiment with in their own kitchen! While I am exciting to read the recipe you will be contributing, you will not be graded on the quality or sophistication of the recipe! 
 
