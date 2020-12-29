@@ -2,7 +2,7 @@
 title: Git for Librarians Shared Recipes
 email: chris-diaz@northwestern.edu
 description: The plain text recipe database for hackers
-baseurl: ""
+baseurl: "https://chrisdaaz.github.io/recipe-lab/"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
