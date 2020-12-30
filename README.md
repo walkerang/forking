@@ -1,6 +1,10 @@
-# Git for Librarians: Recipe Lab
+# Lab Activity: Forking
 
-In this lab, we will be simulating the experience of contributing to an open source project on GitHub. By the end of this lab, you will have experience with the following:
+In this lab, we will be simulating the experience of contributing to an open source project on GitHub using the [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Recall from the previous lab that Branching requires "read-write" access a central, server-side repository on GitHub. Forking is a method of collaboration that allows anyone to contribute to an open source project **without** read-write permissions to a GitHub repository. 
+
+> A "Fork" is a copy of a server-side Git repository (i.e. on GitHub) on another user's account. This allows the original repository owner to maintain their project without granting repository permissions to anyone else, while also giving users a copy of a project that they can manage on GitHub on their own. The benefit to open source communities is that data can be pushed and pulled between Forks through Pull Requests.   
+
+By the end of this lab, you will have experience with the following:
 
 - Forking a repository from GitHub
 - Cloning a forked repository to your computer
@@ -8,26 +12,26 @@ In this lab, we will be simulating the experience of contributing to an open sou
 - Creating pull requests from your forked repository
 - Linking specific Github Issues to pull requests
 
-This particular simulation is for contributing to a recipe website. Your task will be to contribute a recipe to the website so that the entire class can have new recipe to experiment with in their own kitchen! While I am exciting to read the recipe you will be contributing, you will not be graded on the quality or sophistication of the recipe! 
+This particular simulation is for contributing to [a recipe website](https://chrisdaaz.github.io/forking/). Your task will be to contribute a recipe to the website so that the entire class can have new recipe to experiment with in their own kitchen! While I am exciting to read the recipe you will be contributing, you will not be graded on the quality or sophistication of the recipe! 
 
 By completing this lab, you will have a copy of all of the code and files required for a [Jekyll](https://jekyllrb.com/) website using the [Chowdown](https://github.com/clarklab/chowdown) theme. You **do not** need to have Jekyll installed on your machine to complete this lab. You just need the ability to add files to the repository, edit them in VS Code (or your preferred plain text editor), and push `commits` to GitHub.
 
 ## Prerequisites
 
 - Have a recipe in mind, specifically a title, list of ingredients, and steps to make it. It can be anything you want.
-- Have an image of the finished dish. You can contribute your own photo, or search [Creative Commons](https://search.creativecommons.org/) for a photo licensed for re-use.
+- Have an image of the finished dish. You can contribute your own photo, or search [Creative Commons](https://search.creativecommons.org/) for a generic photo of the dish that is licensed for re-use.
 
 ## Getting Started
 
-1. Fork this repository to your GitHub account: Click on the `Fork` button near the top-right of this page. This will create a copy of the repository to your GitHub account. At the end of the process, you should be at the GitHub version of your forked repository. The URL will look something like this: `https://github.com/USERNAME/recipe-lab`
+1. [Fork this repository](https://github.com/chrisdaaz/forking) to your GitHub account: Click on the `Fork` button near the top-right of this page. This will create a copy of the repository to your GitHub account. At the end of the process, you should be at the GitHub version of your forked repository. The URL will look something like this: `https://github.com/USERNAME/forking`
 
-2. Clone this repository to your computer [[help guide](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)], something like: `git clone https://github.com/USERNAME/recipe-lab.git`
+2. Clone this repository to your computer [[help guide](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)], something like: `git clone git@github.com:chrisdaaz/forking.git`
 
 3. Open the repository in your text editor (e.g. VS Code)
 
 ## Writing a Recipe
 
-The recipes are stored in the "Recipes" (the folder `/_recipes`) folder of the repository.
+To complete this assignment, you only need to add two files. The first file will be a recipe file within the `_recipes` subfolder; the second file will be an image file (`.png | .jpg | .gif`) added to the `images` subfilder. Here's how:
 
 4. Create a new markdown file within the `_recipes` directory named after your dish. Use [Kebab case](https://en.toolpage.org/tool/kebabcase) for the file name. and `.md` as the file extension. For example, a recipe for Banana Bread would be `banana-bread.md`. It's very important that this file is save to the `_recipes` directory.
 
