@@ -25,7 +25,7 @@ By completing this lab, you will have a copy of all of the code and files requir
 
 1. [Fork this repository](https://github.com/chrisdaaz/forking) to your GitHub account: Click on the `Fork` button near the top-right of this page. This will create a copy of the repository to your GitHub account. At the end of the process, you should be at the GitHub version of your forked repository. The URL will look something like this: `https://github.com/USERNAME/forking`
 
-2. Clone this repository to your computer [[help guide](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)], something like: `git clone git@github.com:chrisdaaz/forking.git`
+2. Clone your new forked repository to your computer [[help guide](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)], something like: `git clone git@github.com:USERNAME/forking.git`
 
 3. Open the repository in your text editor (e.g. VS Code)
 
