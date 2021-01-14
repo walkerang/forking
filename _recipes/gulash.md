@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title:  "Gulash - the non-Hungarian variant"
-image: red-berry-tart.jpg
-tags: stews
+title: "Gulash - the non-Hungarian variant"
+image: ready-to-digin_scaled.jpg
+tags: stews, winter, fall
 
 directions:
 - Chop onion
@@ -23,4 +23,4 @@ components:
 
 ---
 
-It can be served with bread (especially rye), pasta, or potatoes.
+It can be served with bread (especially dark rye), pasta, or potatoes, even rice (brown or other).
