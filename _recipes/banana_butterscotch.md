@@ -11,7 +11,7 @@ directions:
 - In a larger bowl, beat the sugar and eggs (with beater if you've got one) until they are pale and fluffy. Stir in banana, yog, choc, I put the maple syrup in at this point, and 50g pecan nuts, followed by the flour mixture.
 - Spoon into loaf tin and sprinkle with the remaining nuts and demerara sugar (I didn't do this). Bake for an hour, or until skewer comes out clean. Cool in the tin on a wire rack, turn out and slice.
 
-components:
+ingredients:
 - 175g (6 oz) flour
 - 2 tsp baking power
 - 1/2 tsp baking soda

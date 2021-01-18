@@ -20,9 +20,10 @@ directions:
 - Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.
 - Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft.
 
-- Nutrition Facts - Per Serving:
-512 calories; protein 3.6g; carbohydrates 67.8g; fat 26.7g; cholesterol 30.5mg; sodium 240.8mg.
+
 
 ---
 
 Based on [Apple Pie by Grandma Ople](https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/).
+
+**Nutrition Facts - Per Serving:** 512 calories; protein 3.6g; carbohydrates 67.8g; fat 26.7g; cholesterol 30.5mg; sodium 240.8mg.

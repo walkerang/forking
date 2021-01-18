@@ -3,7 +3,7 @@ layout: recipe
 title: "Buddha Bowl"
 image: buddha-bowl-pic.jpg
 
-components:
+ingredients:
 - 2 Tbsp olive, melted coconut, or avocado oil
 - 1/2 medium red onion (sliced in wedges)
 - 2 small sweet potatoes (halved)
@@ -24,7 +24,7 @@ directions:
 - Once hot, add 1 Tbsp oil (amount as original recipe is written // use half of total amount if altering batch size) and chickpeas and sauté, stirring frequently. If they’re browning too quickly, turn down heat. If there isn’t much browning going on, increase heat. I found 10 minutes total at slightly over medium heat was perfect.
 - Once the chickpeas are browned and fragrant, remove from heat and set aside.
 - Prepare sauce by adding tahini, maple syrup and lemon juice to a mixing bowl and whisking to combine. Add hot water until a pourable sauce is formed. Set aside.
-- To serve: slice sweet potatoes into bite size pieces. Divide vegetables between 3 serving bowls and top with chickpeas + tahini sauce.
+- "To serve: slice sweet potatoes into bite size pieces. Divide vegetables between 3 serving bowls and top with chickpeas + tahini sauce."
 
 ---
 

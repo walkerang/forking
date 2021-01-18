@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Quick Homemade Corn Tortillas"
 image: corn-tortillas.jpg
-imagecredit: "corn tortillas" by Edsel L is licensed with CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/
+imagecredit: "'corn tortillas' by Edsel L is licensed with CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/"
 tags: Mexican food, quick, easy, versatile
 
 ingredients:
@@ -17,8 +17,7 @@ additional items:
 - plastic wrap OR
 - clear kitchen towels
 - large plastic storage bag
-tortilla press OR
--cutting board and a heavy skillet or dish
+- tortilla press OR cutting board and a heavy skillet or dish
 
 directions:
 - Add 2 cups of masa harina and salt in a large bowl. Mix together well with a spoon.
@@ -33,10 +32,10 @@ directions:
 - Set one of the small balls of dough into the center of the plastic bag. Lay the top of the plastic bag over the dough ball.
 - If you are using a tortilla press, close it and flatten the dough ball in the plastic storage bag that is between the press plates. If you do not have a tortilla press, use a skillet, pan, or something similar to flatten the dough ball.
 - Now you have an uncooked tortilla! Remove the flattened dough ball and carefully place it on the heated griddle, skillet, or pan. Cook for about 30 seconds. Flip and cook the other side for about 30 seconds. You will start to see the tortilla inflate and have darkened spots on it. 
-- Note: If your tortillas are slightly thicker or thinner, cooking times will need to be adjusted accordingly.
+- "Note: If your tortillas are slightly thicker or thinner, cooking times will need to be adjusted accordingly."
 - Place the cooked tortillas on a clean towel and fold the tower over to keep the tortialls warm.
 - Repeat with remaining tortillas
--Serve immediately and enjoy!
-
+- Serve immediately and enjoy!
+---
 
 Based on [Easy Homemade Corn Tortillas by Isabel](https://www.isabeleats.com/3-ingredient-authentic-mexican-corn-tortillas/).

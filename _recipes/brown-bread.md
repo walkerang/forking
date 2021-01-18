@@ -21,12 +21,10 @@ directions:
 - Turn the loaf out onto a wire rack. The bottom should sound hollow when tapped.
 - Cool completely before slicing.
 
-
-equipment:
-- 2lb loaf tim, tin foil, mixing bowl.
-
-
-
 ---
 
 A nice bread mix for coeliacs.
+
+
+**Equipment:**
+- 2lb loaf tim, tin foil, mixing bowl.

@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Corn and Tomato Salad"
-image: corn-tomato-salad.jpg
+image: corn-tomato-salad.JPG
 imagecredit: 
 tags: sides, salads
 
