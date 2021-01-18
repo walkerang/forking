@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Fitzbillies Coffee Cake"
-image: coffee-cake.jpg
+image: coffee-cake.JPG
 imagecredit: 
 tags: cakes, baking, fitzbillies
 
