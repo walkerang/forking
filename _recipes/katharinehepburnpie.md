@@ -4,7 +4,7 @@ layout: recipe
 title:  "Katharine Hepburn pie"
 image: KHPie.jpg
 imagecredit: 
-tags: deserts
+tags: desserts
 
 ingredients:
 - 1.5 sticks butter
