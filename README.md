@@ -25,7 +25,7 @@ By completing this lab, you will have a copy of all of the code and files requir
 
 1. [Fork this repository](https://github.com/chrisdaaz/forking) to your GitHub account: Click on the `Fork` button near the top-right of this page. This will create a copy of the repository to your GitHub account. At the end of the process, you should be at the GitHub version of your forked repository. The URL will look something like this: `https://github.com/USERNAME/forking`
 
-2. Clone this repository to your computer [[help guide](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)], something like: `git clone git@github.com:chrisdaaz/forking.git`
+2. Clone your new forked repository to your computer [[help guide](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)], something like: `git clone git@github.com:USERNAME/forking.git`
 
 3. Open the repository in your text editor (e.g. VS Code)
 
@@ -54,7 +54,7 @@ Or you can see the example in the `_recipes/bagels.md` file (you can copy the co
 
 ## Adding an Image
 
-For this part, you can use your default file explorer to copy your image to the repository. On your computer, the repository will be in a folder called `recipe-lab`. 
+For this part, you can use your default file explorer to copy your image to the repository. On your computer, the repository will be in a folder called `forking`. 
 
 6. Save the image file (`.jpg`, `.png`, or `.gif`) to the `/images` folder of the repository. Make sure that the image file name and extension matches the value for the `image` filed in your corresponding markdown file. For example, if you're adding an image file called `bagels.jpg` to the `/images` folder, the `bagels.md` markdown file for the _recipe_ should also include the line `image: bagels.jpg` near the top of the file.
 
@@ -66,15 +66,15 @@ For this part, you can use your default file explorer to copy your image to the 
 
 9. Commit the files to your repository: `git commit -am "adds a new recipe"`
 
-_Note: you are not making a new branch for this commit. You are committing directly to the `main` branch of your `Fork` of the `recipe-lab` repository._
+_Note: you are not making a new branch for this commit. You are committing directly to the `main` branch of your `Fork` of the `forking` repository._
 
 10. Push the `commit` to your `Fork` on GitHub: `git push`
 
-11. Now, when you visit your `Fork` on Github, you will notice that your repository is one commit ahead of `https://github.com/chrisdaaz/recipe-lab`. GitHub will be aware of this and will ask you if you'd like to `Compare and Pull Request`.
+11. Now, when you visit your `Fork` on Github, you will notice that your repository is one commit ahead of `https://github.com/chrisdaaz/forking`. GitHub will be aware of this and will ask you if you'd like to `Compare and Pull Request`.
 
-12. Create a Pull Request from **your** forked version of `recipe-lab` to **my** original version of `recipe-lab` on GitHub [[help guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)].
+12. Create a Pull Request from **your** forked version of `forking` to **my** original version of `forking` on GitHub [[help guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)].
 
-> Contributions to projects through pull requests are usually linked to [Issues in the target repository](https://github.com/chrisdaaz/recipe-lab/issues). GitHub provides ticketing system (called "Issues") in every repository. This helps repository contributors keep track of work that needs to get done on the repository. Please reference [Issue #1](https://github.com/chrisdaaz/recipe-lab/issues/1) in the Description of your Pull Request. 
+> Contributions to projects through pull requests are usually linked to [Issues in the target repository](https://github.com/chrisdaaz/forking/issues). GitHub provides ticketing system (called "Issues") in every repository. This helps repository contributors keep track of work that needs to get done on the repository. Please reference [Issue #1](https://github.com/chrisdaaz/forking/issues/1) in the Description of your Pull Request. 
 
 13. In the `Title` field of the Pull Request, enter the name of your recipe. In the `Description` of your recipe, reference the GitHub Issue number in order to link your contribution to the requested work in the Issue tracker [[here's a help guide on linking pull requests to issues](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)].
 
