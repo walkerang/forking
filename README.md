@@ -25,13 +25,11 @@ By completing this lab, you will have a copy of all of the code and files requir
 
 1. [Fork this repository](https://github.com/chrisdaaz/forking) to your GitHub account: Click on the `Fork` button near the top-right of this page. This will create a copy of the repository to your GitHub account. At the end of the process, you should be at the GitHub version of your forked repository. The URL will look something like this: `https://github.com/USERNAME/forking`
 
-2. Clone your new forked repository to your computer [[help guide](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)], something like: `git clone git@github.com:USERNAME/forking.git`
-
-3. Open the repository in your text editor (e.g. VS Code)
+2. Open the repository in the online text editor (VS Code) by pressing the period key `.` on the repository home page.
 
 ## Writing a Recipe
 
-To complete this assignment, you only need to add two files. The first file will be a recipe file within the `_recipes` subfolder; the second file will be an image file (`.png | .jpg | .gif`) added to the `images` subfilder. Here's how:
+To complete this assignment, you only need to add two files. The first file will be a recipe file within the `_recipes` subfolder; the second file will be an image file (`.png | .jpg | .gif`) added to the `images` subfolder. Here's how:
 
 4. Create a new markdown file within the `_recipes` directory named after your dish. Use [Kebab case](https://en.toolpage.org/tool/kebabcase) for the file name. and `.md` as the file extension. For example, a recipe for Banana Bread would be `banana-bread.md`. It's very important that this file is save to the `_recipes` directory.
 
@@ -54,25 +52,31 @@ Or you can see the example in the `_recipes/bagels.md` file (you can copy the co
 
 ## Adding an Image
 
-For this part, you can use your default file explorer to copy your image to the repository. On your computer, the repository will be in a folder called `forking`. 
+_You can find free-to-use images at [Creative Commons](https://search.creativecommons.org/)._
 
-6. Save the image file (`.jpg`, `.png`, or `.gif`) to the `/images` folder of the repository. Make sure that the image file name and extension matches the value for the `image` filed in your corresponding markdown file. For example, if you're adding an image file called `bagels.jpg` to the `/images` folder, the `bagels.md` markdown file for the _recipe_ should also include the line `image: bagels.jpg` near the top of the file.
+6. Save the image file (`.jpg`, `.png`, or `.gif`) to your computer and upload it to the `/images` folder of the repository by right-clicking the `/images/` folder and selecting "Upload...". Make sure that the image file name and extension matches the value for the `image` filed in your corresponding markdown file. For example, if you're adding an image file called `bagels.jpg` to the `/images` folder, the `bagels.md` markdown file for the _recipe_ should also include the line `image: bagels.jpg` near the top of the file.
 
-## Git Workflow
+> If you're using the command line, see "Command Line Workflow" below for the git work flow.
 
-7. Open your terminal in VS Code (`File menu > Terminal > New Terminal`) or terminal program (e.g. Git Bash). 
+7. Commit the changes to your repository using the same steps from the [first lab activity](https://angry-varahamihira-f6a405.netlify.app/2-setup.html). Skip ahead to the Pull Request section.
 
-8. Run `git status` to make sure that Git is aware that you've created two new untracked files: a markdown file (`.md`) and an image file. 
+## Command Line Workflow
 
-9. Commit the files to your repository: `git commit -am "adds a new recipe"`
+- Open your terminal in VS Code (`File menu > Terminal > New Terminal`) or terminal program (e.g. Git Bash). 
+
+- Run `git status` to make sure that Git is aware that you've created two new untracked files: a markdown file (`.md`) and an image file. 
+
+- Commit the files to your repository: `git commit -am "adds a new recipe"`
 
 _Note: you are not making a new branch for this commit. You are committing directly to the `main` branch of your `Fork` of the `forking` repository._
 
-10. Push the `commit` to your `Fork` on GitHub: `git push`
+- Push the `commit` to your `Fork` on GitHub: `git push`
 
-11. Now, when you visit your `Fork` on Github, you will notice that your repository is one commit ahead of `https://github.com/chrisdaaz/forking`. GitHub will be aware of this and will ask you if you'd like to `Compare and Pull Request`.
+## Pull Request
 
-12. Create a Pull Request from **your** forked version of `forking` to **my** original version of `forking` on GitHub [[help guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)].
+- Now, when you visit your `Fork` on Github, you will notice that your repository is one commit ahead of `https://github.com/chrisdaaz/forking`. GitHub will be aware of this and will ask you if you'd like to `Compare and Pull Request`.
+
+- Create a Pull Request from **your** forked version of `forking` to **my** original version of `forking` on GitHub [[help guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)].
 
 > Contributions to projects through pull requests are usually linked to [Issues in the target repository](https://github.com/chrisdaaz/forking/issues). GitHub provides ticketing system (called "Issues") in every repository. This helps repository contributors keep track of work that needs to get done on the repository. Please reference [Issue #1](https://github.com/chrisdaaz/forking/issues/1) in the Description of your Pull Request. 
 
