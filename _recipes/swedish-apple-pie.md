@@ -1,21 +1,20 @@
 ---
 
 layout: recipe
-title: "Bea's Swedish Apple Pie"
+title: "Swedish Apple Pie"
 image: swedish-apple-pie.jpg
 tags: desserts
 
-ingredients:
+components:
 - Peeled, sliced apples
 - 1 Tbsp sugar
 - 1 tsp cinnamon
-- Topping:
-  3/4 cup melted butter
-  1 cup sugar
-  1 cup flour
-  1 egg
-  1/2 cup chopped nuts (walnuts)
-  pinch of salt
+- 3/4 cup melted butter
+- 1 cup sugar
+- 1 cup flour
+- 1 egg
+- 1/2 cup chopped nuts (walnuts)
+- pinch of salt
 
 directions:
 - Fill buttered (or use cooking spray) pie pan 2/3 full of peeled, sliced apples. Sprinkle with sugar and cinnamon
