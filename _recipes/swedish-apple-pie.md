@@ -24,4 +24,4 @@ directions:
 
 ---
 
-Recipe by Jennifer Smith as given in the 2021 Food for Friends Cookbook sold by the Friends of Memorial Hall Library.
+Recipe by Jennifer Smith as given in the 2021 Food for Friends Cookbook sold by the [Friends of Memorial Hall Library](https://friendsofmemorialhalllibrary.wildapricot.org/Sys/Store/Products/271957).
