@@ -1,3 +1,4 @@
+---
 layout: recipe
 title:  "Hoshigaki (Dried Persimmons)"
 image: hoshigaki.jpg
