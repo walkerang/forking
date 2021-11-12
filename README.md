@@ -87,6 +87,6 @@ TITLE: Buffalo Chicken Recipe
 DESCRIPTION: references #1
 ```
 
-14. When you're ready, click on `Create Pull Request`. This will notify me that your work is complete. If the recipe looks good, I'll add it to the book and you will see it available here:
+14. When you're ready, click on `Create Pull Request`. This will notify me that your work is complete. If the recipe looks good, I'll add it to the book and you will see it available here: https://chrisdaaz.github.io/forking/
 
 **You're done!**
