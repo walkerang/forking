@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title "Bea's Swedish Apple Pie"
+title: "Bea's Swedish Apple Pie"
 image: swedish-apple-pie.jpg
 tags: desserts
 
