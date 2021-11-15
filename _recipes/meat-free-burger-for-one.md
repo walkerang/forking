@@ -3,7 +3,20 @@
 layout: recipe
 title: "Mini Meat-Free Burger for One"
 image: meat-free-mini-burger.png
-tags: burgers
+imagecredit: 
+tags: burgers, easy
+
+ingredients: 
+- Dr. Praeger's All American Veggie Burger (frozen)
+- 1 Slice of Dave's Killer Bread (or bread of your choosing)
+- Veganaise
+- BBQ sauce (or other condiments of your choosing)
+- Pickle(s) - optional
+- Vegan cheese - optional
+- Clover sprouts (or any sprouts) - optional
+- Slice of tomato - optional
+- Baby spinach leaves - optional
+- Any other fixins you prefer in your mini burger
 
 directions:
 - Toast 1 piece of Killer Dave's bread to your liking and cut in 1/2 
@@ -20,18 +33,6 @@ directions:
 - When the timer ends, remove burger and place on either bun
 - Bring together other bun and fixins to top-off and complete the burger
 
-components: 
-- Dr. Praeger's All American Veggie Burger (frozen)
-- 1 Slice of Dave's Killer Bread (or bread of your choosing)
-- Veganaise
-- BBQ sauce (or other condiments of your choosing)
-- Pickle(s) - optional
-- Vegan cheese - optional
-- Clover sprouts (or any sprouts) - optional
-- Slice of tomato - optional
-- Baby spinach leaves - optional
-- Any other fixins you prefer in your mini burger
-
 ---
 
-Recommended for folks who cannot cook, and who are obsessed with toaaster oven cooking, and looking for a plant-based, small meal. 
+Recommended for folks who cannot cook, and who are obsessed with toaster oven cooking, and looking for a plant-based, small meal. 
