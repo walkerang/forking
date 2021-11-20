@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Beef Bulgogi"
+title:  "Bulgogi"
 image: bulgogi.jpg
 imagecredit: 
 tags: Dinner, Lunch, Korean Food
