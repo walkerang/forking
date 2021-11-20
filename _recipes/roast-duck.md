@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Roast Duck"
-image: roast-duck.jpeg
+image: roast-duck.jpg
 imagecredit: "Meat - Roast Duck and Soy Chicken Noodle Soup - Pacific Seafood BBQ House" by avlxyz is licensed under CC BY-SA 2.0
 tags: main dish
  
