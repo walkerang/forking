@@ -25,4 +25,5 @@ directions:
   - Add all the dressing ingredients to a small bowl and whisk well. Alternatively you can place them all in a blender and blend until for about 30 seconds until well combined. Another option is to place all the ingredients in a jar and shake well.
   - Add the cucumber, tomatoes, bell pepper, onion, olives and feta cheese to a large bowl and pour the dressing over. Toss everything well together and serve immediately.
 ---
-retrieved from <a href="https://www.jocooks.com/wprm_print/14995">Jo Cooks</a>
+
+retrieved from [Jo Cooks](https://www.jocooks.com/wprm_print/14995)

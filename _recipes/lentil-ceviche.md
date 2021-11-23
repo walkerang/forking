@@ -27,5 +27,5 @@ directions:
 - Add the quinoa, the lentils, the vegetables and the cilantro in the bowl and mix.
 - Chill it for 30 minutes in the refrigerator before serving.
 
-
+---
 

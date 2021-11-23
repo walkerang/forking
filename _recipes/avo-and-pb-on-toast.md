@@ -1,3 +1,4 @@
+---
 layout: recipe
 title:  "Avocado and peanut butter on toast"
 image: avopbtoast.jpg
@@ -18,3 +19,4 @@ directions:
 - Spread smashed avocado on top.
 - Chop tomatoes into quarters and place on top.
 - Season with smoked paprika.
+---

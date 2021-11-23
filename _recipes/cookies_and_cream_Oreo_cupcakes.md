@@ -63,5 +63,6 @@ directions for decoration:
 - Using a bain-maire, heat the chocolate until melted and glossy.
 - Using a small piping bag (no nozzle, just cut a very small hole) drizzle the melted chocolate over the top of each cupcake.
 - Top each cupcake with two Oreo quarters.
+---
 
 This recipe is adapted for American chefs from British baker Cupcake Jemma, who bakes lots of tasty treats for their SoHo shop Crumbs and Doilies, and also presents their recipes on YouTube.

@@ -1,3 +1,4 @@
+---
 layout: recipe
 title:  "Double Chocolate Banana bread"
 image: choc_banana_bread.jpg
