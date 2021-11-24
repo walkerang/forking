@@ -1,4 +1,4 @@
-
+---
 
 layout: recipe
 title:  "Instant Pot Chicken Fried Rice"
@@ -27,6 +27,6 @@ directions:
 -Close and seal the lid. Cook on manual heat for 3 minutes. Allow to naturally release for 10 minutes
 - Remove the lid and add soy sauce, seasame oil, peas and carrots. Stir. 
 -Cover and let sit for ten minutes.
-
+---
 
 Based on [Instant Pot Chicken Fried Rice](https://therecipewell.com/instant-pot-chicken-fried-rice/#recipe).
