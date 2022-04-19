@@ -1,3 +1,4 @@
+---
 layout: recipe
 title:  "Air Fryer Potato Fritters"
 image: potato-fritters.jpg
@@ -22,3 +23,4 @@ As soon as the air fryer is preheated remove the air fryer basket and arrange al
 Halfway through the 15 minutes of air frying, turn/flip the potato slices, so that they can be air fried on the other side as well. Air fryer will indicate when to flip the slices.  
 After 15 minutes of air frying, crispy potato fritters will be ready to serve! 
 Enjoy the fritters with just ketchup or with a dip of your choice! 
+---

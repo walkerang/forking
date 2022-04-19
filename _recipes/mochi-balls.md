@@ -17,7 +17,7 @@ directions:
 - Leave for 5-10 minutes to cool.
 - Eat! 
 
-components: 
+ingredients: 
 - Red Bean Paste
 - Glutinous Rice Flour
 - Green Tea Powder

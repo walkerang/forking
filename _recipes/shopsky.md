@@ -4,7 +4,7 @@ layout: recipe
 title:  "Shopsky Salad"
 image: shopsky.jpg
 imagecredit: 
-tags: side dish, vegetable
+tags: ["side dish", "vegetable"]
 
 ingredients:
 - 3 roma tomatoes, chopped

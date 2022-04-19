@@ -1,8 +1,9 @@
+---
 layout: recipe
 title: "Filipino Chicken Adobo"
 image: chicken-adobo.jpg
 
-components:
+ingredients:
 - Chicken, preferably dark meat 
 - Soy Sauce (Filipino brands or Asian brands)
 - White Vinegar
@@ -16,3 +17,4 @@ directions:
 - Serve with steamed rice.
 
 - You can also add stewing pork. For lower sodium, add 1/3 to 1/2 cup water, or more, to taste. But don't use low-sodium soy sauce.
+---
