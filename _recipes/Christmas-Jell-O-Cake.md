@@ -1,3 +1,4 @@
+---
 layout: recipe
 title:  "Christmas Rainbow Jell-O Poke Cake..1980"
 image: Jell-O-Cake.jpg
@@ -18,7 +19,6 @@ directions:
 - Remove second cake from pan the same way. Place cake on top of the first layer. Refrigerate.
 - Garnish with flattened gum drops to resemble holly.
 - Celebrate like it's Christmas in 1980 and play some Atari while you eat!
-
 ---
 
 Based on [Just a Pinch Recipes](https://www.justapinch.com/recipes/dessert/cake/christmas-rainbow-jell-o-poke-cake-1980.html).
