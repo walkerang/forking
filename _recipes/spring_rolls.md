@@ -1,3 +1,29 @@
+Recipe
+Fresh Spring Rolls with Peanut Sauce
+Author: Cookie and Kate
+
+Ingredients
+Spring Rolls
+•	2 ounces rice vermicelli or maifun brown rice noodles*
+•	1 teaspoon toasted sesame oil
+•	¼ teaspoon fine sea salt
+•	1 cup torn butter lettuce, ribs removed
+•	1 cup very thinly sliced red cabbage
+•	2 medium carrots, peeled and cut into matchsticks or sliced into strips with a julienne peeler
+•	2 Persian (mini) cucumbers or 1 small cucumber, thinly sliced or sliced into strips with a julienne peeler
+•	2 medium jalapeños, ribs and seeds removed, thinly sliced
+•	¼ cup thinly sliced green onions
+•	¼ cup roughly chopped fresh cilantro
+•	¼ cup roughly chopped fresh mint
+•	8 sheets rice paper (spring roll wrappers)
+Peanut Sauce
+•	⅓ cup creamy peanut butter
+•	2 tablespoons rice vinegar
+•	2 tablespoons reduced-sodium tamari or soy sauce
+•	2 tablespoons honey or maple syrup
+•	1 tablespoons toasted sesame oil
+•	2 cloves garlic, pressed or minced
+•	2 to 3 tablespoons water, as needed
 Instructions
 1.	To make the spring rolls: Bring a pot of water to boil and cook the noodles just until al dente, according to package directions. Drain, rinse them under cool water, and return them to the pot. Off the heat, toss the noodles with the sesame oil and salt, and set aside.
 2.	Fill a shallow pan (a pie pan or 9″ round cake pan works great) with an inch of water. Fold a lint-free tea towel in half and place it next to the dish. Make sure your prepared fillings are within reach. Combine the green onion, cilantro and mint in a small bowl, and stir.
